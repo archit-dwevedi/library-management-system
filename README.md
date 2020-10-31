@@ -29,6 +29,7 @@ Low-level design is a component-level design process that follows a step-by-step
 - [Library Management System](https://github.com/archit-dwevedi/low-level-design/tree/main/library-management-system)
 - [Parking Lot](https://github.com/archit-dwevedi/low-level-design/tree/main/parking-lot)
 - [Stack-Overflow](https://github.com/archit-dwevedi/low-level-design/tree/main/stack-overflow)
+- [Amazon](https://github.com/archit-dwevedi/low-level-design/tree/main/amazon)
 
 > Feel Free to reach out to me via email. Shoot your doubts at dwevediar@gmail.com
 
